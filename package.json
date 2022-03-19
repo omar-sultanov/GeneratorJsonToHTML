@@ -1,0 +1,14 @@
+{
+  "name": "jsontohtml",
+  "version": "1.0.0",
+  "description": "Generate .html file from .json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Sultanov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
